@@ -1,5 +1,5 @@
 /*!
- * jquery arrowkey_scroll plugin
+ * jquery keyscroll plugin
  * Copyright (C) KAYAC Inc. | http://www.kayac.com/
  * Dual licensed under the MIT <http://www.opensource.org/licenses/mit-license.php>
  * and GPL <http://www.opensource.org/licenses/gpl-license.php> licenses.
@@ -7,9 +7,9 @@
  * @author kyo_ago
  * @version 1.0.0
  * @require jQuery 1.3 or later
- * @see http://github.com/kyo-ago/jQuery.arrowkey_scroll
+ * @see http://github.com/kyo-ago/jQuery.keyscroll
  */
-$.arrowkey_scroll = function (option) {
+$.keyscroll = function (option) {
 	option = $.extend({
 		'scroll_type' : 'quart',
 		'time' : 900,

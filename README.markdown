@@ -3,7 +3,7 @@
 #### 使い方
 
 	$(function () {
-		$.arrowkey_scroll({
+		$.keyscroll({
 			// スクロールのエフェクト名 
 			// 初期値「quart」 
 			// quartは設定されていない場合、内部のものを設定する 
@@ -26,4 +26,4 @@
 
 #### 紹介記事
 
-[カーソルキーでエントリーを移動するjQuery pluginを作成しました | tech.kayac.com - KAYAC engineers' blog](http://tech.kayac.com/archive/jquery-arrowkey_scroll-plugin.html)
+[カーソルキーでエントリーを移動するjQuery pluginを作成しました | tech.kayac.com - KAYAC engineers' blog](http://tech.kayac.com/archive/jquery-keyscroll-plugin.html)
